@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="352.0" prefWidth="509.0" style="-fx-background-color: #303338;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="271.0" fitWidth="468.0" layoutX="23.0" layoutY="44.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="23.0" AnchorPane.rightAnchor="18.0" AnchorPane.topAnchor="44.0">
+         <image>
+            <Image url="@name.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="181.0" layoutY="325.0" text="© Copyright 2018 Shishko Arthur" textFill="WHITE">
+         <font>
+            <Font name="Segoe UI" size="10.0" />
+         </font></Label>
+      <Label layoutX="40.0" layoutY="199.0" text="К У Р С О В О Й  П Р О Е К Т  С Т У Д Е Н Т А  Г Р У П П Ы  С К С - 15  Ш И Ш К О  А. А." textFill="WHITE" textOverrun="CLIP" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="43.0">
+         <font>
+            <Font name="Segoe UI" size="11.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
