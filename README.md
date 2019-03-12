@@ -5,3 +5,4 @@
 10.06.2018
 ### Пример работы программы
 ![about](screenshots/frame.jpg) <br>
+![about](screenshots/info.jpg) <br>
